@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MiAlarma</string>
+    <string name="btnAlarma">Crear Alarma</string>
+    <string name="txtMensaje">Mensaje</string>
+    <string name="txtHora">Hora</string>
+    <string name="txtMinutos">Minutos</string>
+</resources>
